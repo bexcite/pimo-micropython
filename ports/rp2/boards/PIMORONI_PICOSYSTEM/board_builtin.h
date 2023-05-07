@@ -17,6 +17,7 @@
     { MP_ROM_QSTR(MP_QSTR_camera), MP_ROM_PTR(&picosystem_camera_obj) }, \
     { MP_ROM_QSTR(MP_QSTR_cursor), MP_ROM_PTR(&picosystem_cursor_obj) }, \
     { MP_ROM_QSTR(MP_QSTR_spritesheet), MP_ROM_PTR(&picosystem_spritesheet_obj) }, \
+    { MP_ROM_QSTR(MP_QSTR_font), MP_ROM_PTR(&picosystem_font_obj) }, \
 \
     { MP_ROM_QSTR(MP_QSTR_clear), MP_ROM_PTR(&picosystem_clear_obj) }, \
     { MP_ROM_QSTR(MP_QSTR_pixel), MP_ROM_PTR(&picosystem_pixel_obj) }, \

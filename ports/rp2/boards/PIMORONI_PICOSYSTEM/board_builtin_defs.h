@@ -20,6 +20,7 @@
     MP_DECLARE_CONST_FUN_OBJ_VAR_BETWEEN(picosystem_camera_obj); \
     MP_DECLARE_CONST_FUN_OBJ_VAR_BETWEEN(picosystem_cursor_obj); \
     MP_DECLARE_CONST_FUN_OBJ_VAR_BETWEEN(picosystem_spritesheet_obj); \
+    MP_DECLARE_CONST_FUN_OBJ_VAR_BETWEEN(picosystem_font_obj); \
 \
     MP_DECLARE_CONST_FUN_OBJ_2(picosystem_pixel_obj); \
     MP_DECLARE_CONST_FUN_OBJ_3(picosystem_hline_obj); \
